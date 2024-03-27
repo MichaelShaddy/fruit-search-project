@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* .search-container {
+
+} */
+
+/* .search-container ul{
+  
+} */
+
+/* ul.has-suggestions {
+  
+} */
+
+ul {
+  list-style: none;
+  margin-left:5px;
+  width: 70%;
+  border-radius: 20px;
+
+}
+
+ul li {
+  padding: 5px;
+  transition: .3s;
+  background-color: #e7f07fcf;
+}
+
+ul li:hover {
+  background-color: #ff9500cf;
+  cursor: pointer;
+
+}
+
